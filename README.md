@@ -16,3 +16,11 @@ Language: **Prolog**
 swipl [safe.pl](Day2/safe.pl) -- [input.txt](Day2/input.txt)
 - [x] Part 1: 559
 - [x] Part 2: 601 
+
+---
+#### [Day 3](https://adventofcode.com/2024/day/3)
+Language: **Rust**
+
+[code_reader](Day3/src/main.rs) < [input.txt](Day3/input.txt)
+- [x] Part 1: 187825547
+- [x] Part 2: 85508223
